@@ -24,3 +24,15 @@ This project was made possible thanks to a collaboration with:
 ## Extractor LLM
 <img src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/case.png" width="455" height="266" alt="extractor-llm-case">
 
+## Enviroment
+We use conda to manage our enviroment with CUDA 12.1 and cuDNN 9.1.0.
+Create and activate env zi-isag:
+```bash
+conda create -p /YOUR_PATH_TO_CONDA_ENV/zi-isag python=3.10.14
+conda activate /YOUR_PATH_TO_CONDA_ENV/zi-isag
+```
+Build the env with requirements.txt
+```bash
+python -m pip install -r requirements.txt
+```
+
