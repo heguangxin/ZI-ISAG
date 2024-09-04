@@ -43,6 +43,7 @@ The construction includes the following steps:
 - Extract Info-Tag
 - Double Check
 - Portion and Construct
+
 All details of these steps could be found in `data/construct.py`
 
 ## Train
