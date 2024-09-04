@@ -8,7 +8,7 @@
 
 This project was made possible thanks to a collaboration with:
 
-<embed src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/collaboration.pdf" width="800px" height="2100px" />
+<img src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/collaboration.jpg" width="466" height="150" alt="hkust_pku">
 
 ----------
 
