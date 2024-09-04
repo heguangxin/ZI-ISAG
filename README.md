@@ -15,7 +15,7 @@ This project was made possible thanks to a collaboration with:
 - [Paradigm](#paradigm)
 - [Extractor LLM](#extractor-llm)
 - [Environment](#environment)
-- [Instruction Construction](#instruction-construction)
+- [Instruction Set Construction](#instruction-set-construction)
 - [Train](#train)
 
 ## Paradigm
@@ -26,6 +26,7 @@ This project was made possible thanks to a collaboration with:
 
 ## Enviroment
 We use conda to manage our enviroment with CUDA 12.1 and cuDNN 9.1.0.
+
 Create and activate env zi-isag:
 ```bash
 conda create -p /YOUR_PATH_TO_CONDA_ENV/zi-isag python=3.10.14
@@ -35,4 +36,12 @@ Build the env with requirements.txt
 ```bash
 python -m pip install -r requirements.txt
 ```
+
+## Instruction Set Construction
+The construction includes the following steps:
+### Split and Tag
+### Extract Info-Tag
+### Double Check
+### Portion and Construct
+All details of these steps could be found in `data/construct.py` 
 
