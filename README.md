@@ -7,7 +7,8 @@
 ----------
 
 This project was made possible thanks to a collaboration with:
-<img src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/collaboration.pdf" width="466" height="150" alt="01_hkust_fdu_tsinghus">
+
+<embed src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/collaboration.pdf" width="800px" height="2100px" />
 
 ----------
 
