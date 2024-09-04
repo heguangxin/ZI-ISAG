@@ -7,9 +7,20 @@
 ----------
 
 This project was made possible thanks to a collaboration with:
-<img src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/collaboration.png" width="750" height="90" alt="hkust_pku">
-
+<img src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/collaboration.png" width="750" height="90" alt="01_hkust_fdu_tsinghua">
 
 ----------
+
+## Content
+- [Paradigm](#paradigm)
+- [Extractor LLM](#extractor-llm)
+- [Environment](#environment)
+- [Instruction Construction](#instruction-construction)
+- [Train](#train)
+
+## Paradigm
+<img src="https://github.com/Relaxed-System-Lab/ZI-ISAG/blob/main/images/Search-RAG-Internet.png" width="800" height="300" alt="01_hkust_fdu_tsinghua">
+
+## Extractor LLM
 
 
